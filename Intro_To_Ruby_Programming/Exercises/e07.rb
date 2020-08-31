@@ -1,0 +1,1 @@
+# An array holds multiple items while a hash holds key-value pairs.
